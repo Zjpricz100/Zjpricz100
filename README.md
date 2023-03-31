@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hey there! I'm Zach 👋
+
+I am currently studying Computer Science and Electrical Engineering as a second year at Orange Coast College and am planning to transfer to a major four year university this fall. 
+
 
 <!--
 **Zjpricz100/Zjpricz100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
