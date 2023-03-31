@@ -10,6 +10,8 @@ Some things I am working on:
 
 Contact Me:
 
+Portfolio: https://zachpricz.up.railway.app
+
 [![icons8-linkedin-circled](https://user-images.githubusercontent.com/67452812/229043617-773224b3-05c4-46cb-b72c-0067f08a5559.svg)](https://www.linkedin.com/in/zpricz/)
 [![icons8-discord](https://user-images.githubusercontent.com/67452812/229250913-275af44f-202a-4db2-9275-5aac02e9a130.svg)](https://discordapp.com/users/140574308526194689)
 
