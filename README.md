@@ -4,6 +4,10 @@ I am currently studying Computer Science and Electrical Engineering as a second 
 
 Currently I am working to becoming a fullstack web developer for internships and educational programs, but in my future I am planning to build projects around arduino circuitry, machine learning, and modern day IOS applications. I am always interested in trying out new skills and fields in order to further build my foundational skills as a developer or engineer. Welcome to my Github and thank you for visiting!
 
+Some things I am working on:
+  - :computer: Personal Portfolio using HTML, CSS, JS
+  - ::hamburger: Ghost Kitchen Identifier
+
 <!--
 **Zjpricz100/Zjpricz100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
