@@ -8,6 +8,13 @@ Some things I am working on:
   - :computer: Personal Portfolio using HTML, CSS, JS
   - ::hamburger: Ghost Kitchen Identifier
 
+Contact Me:
+
+![icons8-linkedin-circled](https://user-images.githubusercontent.com/67452812/229043617-773224b3-05c4-46cb-b72c-0067f08a5559.svg)(https://www.linkedin.com/in/zpricz/)
+
+
+
+
 <!--
 **Zjpricz100/Zjpricz100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
