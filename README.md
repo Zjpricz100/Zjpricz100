@@ -10,7 +10,10 @@ Some things I am working on:
 
 Contact Me:
 
-![icons8-linkedin-circled](https://user-images.githubusercontent.com/67452812/229043617-773224b3-05c4-46cb-b72c-0067f08a5559.svg)(https://www.linkedin.com/in/zpricz/)
+[![icons8-linkedin-circled](https://user-images.githubusercontent.com/67452812/229043617-773224b3-05c4-46cb-b72c-0067f08a5559.svg)](https://www.linkedin.com/in/zpricz/)
+
+:email: zjpricz100@gmail.com
+
 
 
 
