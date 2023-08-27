@@ -1,22 +1,21 @@
 ### Hey there! I'm Zach 👋
 
-I am currently studying Computer Science and Electrical Engineering as a second year at Orange Coast College and am planning to transfer to a major four year university this fall. 
+I am currently studying Electrical Engineering and Computer Sciences at UC Berkeley with the intention of researching AI, Robotics, and the interaction between computers and human beings.
 
-Currently I am working to becoming a fullstack web developer for internships and educational programs, but in my future I am planning to build projects around arduino circuitry, machine learning, and modern day IOS applications. I am always interested in trying out new skills and fields in order to further build my foundational skills as a developer or engineer. Welcome to my Github and thank you for visiting!
+Currently I am working to earn my degree while exploring multiple disciplines within computer science but in my future I plan to build projects and web applications that serve to help the general public. I am always interested in trying out new skills and fields in order to further build my foundational skills as a developer or engineer. Welcome to my Github and thank you for visiting!
 
 Some things I am working on:
-  - 💻 Snap Engineering Academy Project Based Assessmnet
-  - :hamburger: Ghost Kitchen Identifier
+  - Weather adapting playlist creation tool using Spotify's API
+  - Ghost Kitchen Identifier
 
 Contact Me:
 
-Portfolio: https://zachpricz.up.railway.app
 
 [![icons8-linkedin-circled](https://user-images.githubusercontent.com/67452812/229043617-773224b3-05c4-46cb-b72c-0067f08a5559.svg)](https://www.linkedin.com/in/zpricz/)
 [![icons8-discord](https://user-images.githubusercontent.com/67452812/229250913-275af44f-202a-4db2-9275-5aac02e9a130.svg)](https://discordapp.com/users/140574308526194689)
 
 
-:email: zjpricz100@gmail.com
+:email: zpricz@berkeley.edu
 
 
 
