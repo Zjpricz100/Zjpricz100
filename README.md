@@ -7,7 +7,7 @@ Currently I am working to earn my degree while exploring multiple disciplines wi
 Some things I am working on:
   - EEG Motor Imagery Classifier: An application that processes EEG data to create a neural network that classifies motor imagery left/right fist openings. 
   - Foodwatch: A interactive mapping application hosted by UC Berkeley's Political Science Club that combines machine learning models and data science to identify and reduce food scarcity.
-  - Weather adapting playlist creation tool using Spotify's API
+  - Weather adapting playlist creation tool using Spotify's API.
 
 Contact Me:
 
