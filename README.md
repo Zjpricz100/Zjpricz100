@@ -1,13 +1,8 @@
 ### Hey there! I'm Zach 👋
 
-I am currently studying Electrical Engineering and Computer Sciences at UC Berkeley with the intention of researching AI, Robotics, and the interaction between computers and human beings.
+I am currently studying Electrical Engineering and Computer Sciences at UC Berkeley with the intention of researching AI, Robotics, and the interaction between computers and human beings. I am also highly interested in working in industry for software engineering and ML related roles.
 
 Currently I am working to earn my degree while exploring multiple disciplines within computer science but in my future I plan to build projects and applications that serve to help the general public. I am always interested in trying out new skills and fields in order to further build my foundational skills as a developer or engineer. Welcome to my Github and thank you for visiting!
-
-Some things I am working on:
-  - EEG Motor Imagery Classifier: An application that processes EEG data to create a neural network that classifies motor imagery left/right fist openings. 
-  - Foodwatch: A interactive mapping application hosted by UC Berkeley's Political Science Club that combines machine learning models and data science to identify and reduce food scarcity.
-  - Weather adapting playlist creation tool using Spotify's API.
 
 Contact Me:
 
