@@ -1,33 +1,18 @@
-### Hey there! I'm Zach 👋
-
-I am currently studying Electrical Engineering and Computer Sciences at UC Berkeley with the intention of researching AI applications to health care and the interaction between computers and human beings. I am also highly interested in working in industry for software engineering and ML related roles.
-
-Currently I am working to earn my degree while exploring multiple disciplines within computer science but in my future I plan to build projects and applications that serve to help the general public. I am always interested in trying out new skills and fields in order to further build my foundational skills as a developer or engineer. Welcome to my Github and thank you for visiting!
-
-Contact Me:
+# 💫 About Me:
+I am currently working on PintOS, a comprehensive and miniture operating system built entirely in C<br>I am learning how to create ResNet networks from scratch.<br>
 
 
-[![icons8-linkedin-circled](https://user-images.githubusercontent.com/67452812/229043617-773224b3-05c4-46cb-b72c-0067f08a5559.svg)](https://www.linkedin.com/in/zpricz/)
-[![icons8-discord](https://user-images.githubusercontent.com/67452812/229250913-275af44f-202a-4db2-9275-5aac02e9a130.svg)](https://discordapp.com/users/140574308526194689)
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/zpricz) 
 
+# 💻 Tech Stack:
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Zjpricz100&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Zjpricz100&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Zjpricz100&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-:email: zpricz@berkeley.edu
+---
+[![](https://visitcount.itsvg.in/api?id=Zjpricz100&icon=0&color=0)](https://visitcount.itsvg.in)
 
-
-
-
-
-<!--
-**Zjpricz100/Zjpricz100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
