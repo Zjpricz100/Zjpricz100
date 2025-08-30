@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Project 0 - Becoming Friends With Your Camera</title>
+    <link rel="stylesheet" href="../styles.css">
+    <style>
+        /* Project-specific styles */
+        .project-header {
+            background: linear-gradient(135deg, var(--primary-color), var(--primary-hover));
+            color: white;
+            padding: var(--spacing-2xl) 0;
+            text-align: center;
+            margin-bottom: var(--spacing-2xl);
+        }
+        
+        .back-link {
+            display: inline-flex;
+            align-items: center;
+            color: white;
+            text-decoration: none;
+            font-weight: 500;
+            margin-bottom: var(--spacing-lg);
+            padding: var(--spacing-xs) var(--spacing-sm);
+            border: 2px solid rgba(255, 255, 255, 0.3);
+            border-radius: var(--border-radius);
+            transition: all 0.3s ease;
+        }
+        
+        .back-link:hover {
+            background-color: rgba(255, 255, 255, 0.1);
+            border-color: rgba(255, 255, 255, 0.5);
+        }
+        
+        .back-link::before {
+            content: "←";
+            margin-right: var(--spacing-xs);
+            font-weight: bold;
+        }
+        
+        .image-gallery {
+            margin: var(--spacing-2xl) 0;
+        }
+        
+        .image-row {
+            display: flex;
+            gap: var(--spacing-md);
+            justify-content: center;
+            flex-wrap: wrap;
+            margin-bottom: var(--spacing-lg);
+        }
+        
+        .image-placeholder {
+            width: 200px;
+            height: 150px;
+            background: linear-gradient(45deg, var(--surface-color), var(--border-color));
+            border: 2px dashed var(--border-color);
+            border-radius: var(--border-radius);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: var(--text-secondary);
+            font-size: var(--font-size-sm);
+            text-align: center;
+            transition: all 0.3s ease;
+            position: relative;
+            overflow: hidden;
+        }
+        
+        .image-placeholder::before {
+            content: "📷";
+            font-size: 2rem;
+            opacity: 0.7;
+        }
+        
+        .image-placeholder:hover {
+            border-color: var(--primary-color);
+            transform: scale(1.05);
+            box-shadow: var(--shadow-md);
+        }
+        
+        .image-caption {
+            text-align: center;
+            font-size: var(--font-size-sm);
+            color: var(--text-secondary);
+            margin-top: var(--spacing-xs);
+        }
+        
+        @media (max-width: 768px) {
+            .image-row {
+                gap: var(--spacing-sm);
+            }
+            
+            .image-placeholder {
+                width: 150px;
+                height: 112px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <header class="project-header">
+        <div class="container">
+            <a href="../home.html" class="back-link">Back to Portfolio</a>
+            <h1 class="title">Project 0</h1>
+            <p class="subtitle">Becoming Friends With Your Camera</p>
+        </div>
+    </header>
+
+    <main class="main">
+        <div class="container">
+            <section class="image-gallery">
+                <div class="image-row">
+                    <div class="image-container">
+                        <div class="image-placeholder"></div>
+                        <div class="image-caption">Image 1</div>
+                    </div>
+                    
+                    <div class="image-container">
+                        <div class="image-placeholder"></div>
+                        <div class="image-caption">Image 2</div>
+                    </div>
+                    
+                    <div class="image-container">
+                        <div class="image-placeholder"></div>
+                        <div class="image-caption">Image 3</div>
+                    </div>
+                    
+                    <div class="image-container">
+                        <div class="image-placeholder"></div>
+                        <div class="image-caption">Image 4</div>
+                    </div>
+                    
+                    <div class="image-container">
+                        <div class="image-placeholder"></div>
+                        <div class="image-caption">Image 5</div>
+                    </div>
+                </div>
+            </section>
+        </div>
+    </main>
+
+    <footer class="footer">
+        <div class="container">
+            <p>&copy; 2025 CS180 Portfolio - Project 0</p>
+        </div>
+    </footer>
+</body>
+</html>
