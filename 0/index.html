@@ -10,9 +10,9 @@
         .project-header {
             background: linear-gradient(135deg, var(--primary-color), var(--primary-hover));
             color: white;
-            padding: var(--spacing-2xl) 0;
+            padding: var(--spacing-xl) 0;
             text-align: center;
-            margin-bottom: var(--spacing-2xl);
+            margin-bottom: var(--spacing-xs);
         }
         
         .back-link {
@@ -44,57 +44,56 @@
         }
         
         .image-row {
-            display: flex;
-            gap: var(--spacing-md);
-            justify-content: center;
-            flex-wrap: wrap;
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: var(--spacing-lg);
             margin-bottom: var(--spacing-lg);
         }
         
-        .image-placeholder {
-            width: 200px;
-            height: 150px;
-            background: linear-gradient(45deg, var(--surface-color), var(--border-color));
-            border: 2px dashed var(--border-color);
-            border-radius: var(--border-radius);
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            color: var(--text-secondary);
-            font-size: var(--font-size-sm);
+        .image-container {
             text-align: center;
-            transition: all 0.3s ease;
-            position: relative;
-            overflow: hidden;
         }
         
-        .image-placeholder::before {
-            content: "📷";
-            font-size: 2rem;
-            opacity: 0.7;
-        }
-        
-        .image-placeholder:hover {
-            border-color: var(--primary-color);
-            transform: scale(1.05);
+        .image-container img {
+            width: 100%;
+            max-width: 500px;
+            height: auto;
+            border-radius: var(--border-radius-lg);
             box-shadow: var(--shadow-md);
+            transition: all 0.3s ease;
+        }
+        
+        .image-container img:hover {
+            transform: scale(1.02);
+            box-shadow: var(--shadow-lg);
         }
         
         .image-caption {
+            margin-top: var(--spacing-sm);
+            font-size: var(--font-size-lg);
+            color: var(--text-primary);
+            font-weight: 500;
+        }
+        
+        .row-description {
             text-align: center;
-            font-size: var(--font-size-sm);
+            font-size: var(--font-size-lg);
             color: var(--text-secondary);
-            margin-top: var(--spacing-xs);
+            margin-bottom: var(--spacing-md);
+            line-height: 1.6;
+            max-width: 600px;
+            margin-left: auto;
+            margin-right: auto;
         }
         
         @media (max-width: 768px) {
             .image-row {
-                gap: var(--spacing-sm);
+                grid-template-columns: 1fr;
+                gap: var(--spacing-md);
             }
             
-            .image-placeholder {
-                width: 150px;
-                height: 112px;
+            .image-container img {
+                max-width: 100%;
             }
         }
     </style>
@@ -102,39 +101,39 @@
 <body>
     <header class="project-header">
         <div class="container">
-            <a href="../home.html" class="back-link">Back to Portfolio</a>
+            <a href="../index.html" class="back-link">Back to Portfolio</a>
             <h1 class="title">Project 0</h1>
             <p class="subtitle">Becoming Friends With Your Camera</p>
         </div>
     </header>
 
-    <main class="main">
+    <main class="main" style="padding-top: var(--spacing-sm);">
         <div class="container">
             <section class="image-gallery">
+                <!-- Street Images Row -->
+                <p class="row-description">For these images of a street view, its clear to see that when taking a zoomed in photo of the scene the depth of the image is compressed. An example of this can be seen with the red and green car appearing closer together then they really are. For the images of the pole, the background building appears to much closer when zoomed in due to that same compression effect.</p>
                 <div class="image-row">
                     <div class="image-container">
-                        <div class="image-placeholder"></div>
-                        <div class="image-caption">Image 1</div>
+                        <img src="images/street_zoom.jpeg" alt="Street Photography - Zoom View">
+                        <div class="image-caption">Zoom View</div>
                     </div>
                     
                     <div class="image-container">
-                        <div class="image-placeholder"></div>
-                        <div class="image-caption">Image 2</div>
+                        <img src="images/street_close.jpeg" alt="Street Photography - Close View">
+                        <div class="image-caption">Close View</div>
+                    </div>
+                </div>
+                
+                <!-- Pole Images Row -->
+                <div class="image-row">
+                    <div class="image-container">
+                        <img src="images/pole_zoom.jpg" alt="Pole Photography - Zoom View">
+                        <div class="image-caption">Zoom View</div>
                     </div>
                     
                     <div class="image-container">
-                        <div class="image-placeholder"></div>
-                        <div class="image-caption">Image 3</div>
-                    </div>
-                    
-                    <div class="image-container">
-                        <div class="image-placeholder"></div>
-                        <div class="image-caption">Image 4</div>
-                    </div>
-                    
-                    <div class="image-container">
-                        <div class="image-placeholder"></div>
-                        <div class="image-caption">Image 5</div>
+                        <img src="images/pole_close.jpg" alt="Pole Photography - Close View">
+                        <div class="image-caption">Close View</div>
                     </div>
                 </div>
             </section>
