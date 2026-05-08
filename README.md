@@ -1,4 +1,4 @@
-### Why Hello There, I'm Zach 🤖
+### Why hello there, I'm Zach 🤖
 
 #### I am a UC Berkeley graduate with professional and research experience in deep learning, computer vision, signal processing and AI/ML. I have a passion for building AI systems that solve real-world problems and give us a better understanding of the world around us.
 
