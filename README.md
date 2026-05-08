@@ -1,11 +1,10 @@
-### Hello there 👋
+### Why Hello There, I'm Zach 🤖
 
-#### A Full-Stack Developer by day ☼ and a Laravel Community Contributor by night ☾
+#### I am a UC Berkeley graduate with professional and research experience in deep learning, computer vision, signal processing and AI/ML. I have a passion for building AI systems that solve real-world problems and give us a better understanding of the world around us.
 
-Full-Stack Developer at [Medicare](https://medicare.pt?ref=github-caneco);<br>
-Host/Organizing [Laracon EU](https://laracon.eu?ref=github-caneco);<br>
+I am currently working on an Embedding Based Visualization map for documents, code files, and more<br>
 
-- ⚙️ I use daily: `.php`, `.js`, `.html`, `.css`, `.svg`, `.psd`, `.ai`
-- 🌍 I'm mostly active within the **Laravel Community**
-- 💅 Designed: @pestphp, [NorthMeetsSouth.audio](https://www.northmeetssouth.audio), [ThenPing.me](https://thenping.me), [HappydDev.fm](https://www.happydev.fm), etc…
-- 💬 `ping` me about **design**, **branding**, **laravel**, **development**, **design thinking**
+- ⚙️ I use daily: `Python`, `Pytorch`, `Numpy`, `scikit-learn`, `OpenCV`
+- 🌍 I'm a hiking and guitar enthusiast
+- 💬 Reach out to me me about **AI Engineering**, **ML**, **Deep Learning**, or **Software Engineering**
+- Check out my work at https://zjpricz100.github.io/
