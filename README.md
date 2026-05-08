@@ -1,9 +1,11 @@
-<h1 align="center">zach</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+### Hello there 👋
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+#### A Full-Stack Developer by day ☼ and a Laravel Community Contributor by night ☾
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> </p>
+Full-Stack Developer at [Medicare](https://medicare.pt?ref=github-caneco);<br>
+Host/Organizing [Laracon EU](https://laracon.eu?ref=github-caneco);<br>
+
+- ⚙️ I use daily: `.php`, `.js`, `.html`, `.css`, `.svg`, `.psd`, `.ai`
+- 🌍 I'm mostly active within the **Laravel Community**
+- 💅 Designed: @pestphp, [NorthMeetsSouth.audio](https://www.northmeetssouth.audio), [ThenPing.me](https://thenping.me), [HappydDev.fm](https://www.happydev.fm), etc…
+- 💬 `ping` me about **design**, **branding**, **laravel**, **development**, **design thinking**
